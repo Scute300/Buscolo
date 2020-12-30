@@ -2,7 +2,9 @@
 <div>
   <nav class="navbar is-danger" id="navbar">
     <div class="nabvar-brand" id="navbar">
-        <img src="buscolo1.png" alt="Bulma: Free, open source, and modern CSS framework based on Flexbox" width="200" height="130">
+        <a href="/">
+            <img src="buscolo1.png" alt="Bulma: Free, open source, and modern CSS framework based on Flexbox" width="200" height="130">
+        </a>
     </div>
   </nav>
   <div class="container">
