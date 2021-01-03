@@ -70,11 +70,13 @@
           <img src="logo2.jpg" alt="">
         </figure>
       </div>
-      <div class="column is-7">
-        <p class="is-size-5">
-          Somos una aplicación hecha en Nicaragua para ayudar a los profesionales a 
+      <div class="column is-6">
+        <p class="is-size-3">
+          Somos una aplicación hecha en Nicaragua 
+          para ayudar a los profesionales a 
           tener una mayor exposición en la red. 
-          No les pasa que algunas veces necesitan de servicio profesional urgente? 
+          No les pasa que algunas veces necesitan de 
+          servicio profesional urgente? 
         </p>
       </div>
     </div>
