@@ -252,30 +252,33 @@
         </div>
         <div id="footer">
             <div class="container">
-            <div class="columns is-gaples">
+            <div class="columns">
                 <div class="column is-2">
-                </div>
-            </div>
-            <div class="columns is-gapless">
-                <div class="column is-2">
-                <div class="columns is-gapless">
-                    <div class="column is-12">
-                    <a id="textfooter">
-                        <span id="textfooter">
-                        Terminos y Condiciones
-                        </span>
-                    </a>
+                    <div class="columns is-gapless">
+                        <div class="column is-12">
+                        <a id="textfooter">
+                            <span id="textfooter">
+                            Terminos y Condiciones
+                            </span>
+                        </a>
+                        </div>
+                    </div>
+                    <div class="columns is-gapless">
+                        <div class="column is-12">
+                        <a id="textfooter">
+                            <span id="textfooter">
+                            Politica de Privacidad
+                            </span>
+                        </a>
+                        </div>
                     </div>
                 </div>
-                <div class="columns is-gapless">
-                    <div class="column is-12">
-                    <a id="textfooter">
-                        <span id="textfooter">
-                        Politica de Privacidad
-                        </span>
-                    </a>
-                    </div>
-                </div>
+                <div class="column is-4 is-offset-6">
+                    <h3 style="color:white;" class="title is-5">
+                        Contacto
+                    </h3>
+                    <textarea id="textarea" class="textarea" placeholder="No olvides anexar tus datos!"></textarea>
+                     <button class="button is-success is-fullwidth">Enviar</button>
                 </div>
             </div>
             </div>
@@ -292,17 +295,20 @@
 <style scoped>
 #navbar{
   width:  100% !important;
-  padding-top: 5px !important;
+  background-color: #cf1717;
 }
 #footer{
-  height: 200px;
-  background-color: #f14668;
+  height: 240px;
   width: 100%;
-  margin-top: 2800;
+  margin-top: 20px;
+  background-color: #cf1717;
 }
 #textfooter{
   color: white;
   font-weight: 700;
+}
+textarea{
+    height: 50px;
 }
 
 </style>
