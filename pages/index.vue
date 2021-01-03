@@ -109,7 +109,7 @@
         <div class="columns">
           <div class="column">
             <p class="is-size-5">
-              Por esta razon creamos la plataforma de Busco App, para que los  
+              Por esta razon creamos la plataforma de Buscolo, para que los  
               profesionales en distintas áreas puedan ofrecer su servicios 
               y estar más conectados con los usuarios que puedan requerir de ellos. 
             </p>
@@ -141,7 +141,7 @@
   <div id="footer">
     <div class="container">
       <div class="columns">
-        <div class="column is-2">
+        <div class="column is-3">
           <div class="columns is-gapless">
             <div class="column is-12">
               <a href="Terminosycondiciones" id="textfooter">
@@ -161,7 +161,7 @@
             </div>
           </div>
         </div>
-        <div class="column is-4 is-offset-6">
+        <div class="column is-4 is-offset-5">
             <h3 style="color:white;" class="title is-5">
                 Contacto
             </h3>
